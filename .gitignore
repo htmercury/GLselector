@@ -59,3 +59,8 @@ typings/
 
 # next.js build output
 .next
+
+venv/
+semantic/dist/*
+semantic/gulpfile.js
+semantic/src/definitions
